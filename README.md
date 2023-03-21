@@ -1,2 +1,2 @@
 # tic-tac-toe-backend
-Backend part of Tic-tac-toe game
+Backend part of tic-tac-toe game
